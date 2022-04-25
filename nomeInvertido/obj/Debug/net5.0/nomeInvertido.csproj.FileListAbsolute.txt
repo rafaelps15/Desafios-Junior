@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.exe
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.deps.json
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.runtimeconfig.json
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.dll
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\ref\nomeInvertido.dll
+C:\Users\Rafael\source\repos\nomeInvertido\bin\Debug\net5.0\nomeInvertido.pdb
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.dll
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\ref\nomeInvertido.dll
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.pdb
+C:\Users\Rafael\source\repos\nomeInvertido\obj\Debug\net5.0\nomeInvertido.genruntimeconfig.cache

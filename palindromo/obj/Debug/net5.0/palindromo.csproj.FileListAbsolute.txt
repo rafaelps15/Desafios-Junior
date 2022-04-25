@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.exe
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.deps.json
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.runtimeconfig.json
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.dll
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\ref\palindromo.dll
+C:\Users\Rafael\source\repos\palindromo\bin\Debug\net5.0\palindromo.pdb
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.dll
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\ref\palindromo.dll
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.pdb
+C:\Users\Rafael\source\repos\palindromo\obj\Debug\net5.0\palindromo.genruntimeconfig.cache

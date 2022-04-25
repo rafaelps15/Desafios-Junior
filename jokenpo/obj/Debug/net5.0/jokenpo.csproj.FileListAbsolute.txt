@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.exe
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.deps.json
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.json
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.dll
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\ref\jokenpo.dll
+C:\Users\Rafael\source\repos\jokenpo\bin\Debug\net5.0\jokenpo.pdb
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.dll
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\ref\jokenpo.dll
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.pdb
+C:\Users\Rafael\source\repos\jokenpo\obj\Debug\net5.0\jokenpo.genruntimeconfig.cache
